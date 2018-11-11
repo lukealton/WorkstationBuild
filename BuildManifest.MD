@@ -16,7 +16,7 @@
 ## Install Applications
 
 * VSCode (with extensions)
-    * PowerShell extension
+  * PowerShell extension
 * Chrome
 * Firefox
 * PowerShell Core
@@ -34,3 +34,4 @@
 ## Security Configurations
 
 * Secure Boot - On
+* Device Guard and Credential Guard via Readiness Tool
